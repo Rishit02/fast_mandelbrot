@@ -15,3 +15,9 @@ Launch the app using:
 ```
 streamlit run app.py
 ```
+
+
+## Resources
+
+- https://en.wikipedia.org/wiki/Mandelbrot_set
+
