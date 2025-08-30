@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import time
 import matplotlib.pyplot as plt
-from matplotlib.colors import Normalize
 
 import mandelbrot
 
